@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Control room</title>
+  <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="main.css">
+</head>
+
+<body>
+  <div class="top-bar">
+    <span class="alert-app">control room</span>
+    <span id="display-time" class="display-time">IOT PROJECT - ACCIDENT ALERT SYSTEM </span>
+  </div>
+    <div id="map" class="map"></div>
+<script src="https://www.gstatic.com/firebasejs/4.13.0/firebase.js"></script>
+
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyD3retiod3d6_xBS0qgRosWI_vyKvJzL1Y",
+    authDomain: "alertapp-9682a.firebaseapp.com",
+    databaseURL: "https://alertapp-9682a.firebaseio.com",
+    projectId: "alertapp-9682a",
+    storageBucket: "alertapp-9682a.appspot.com",
+    messagingSenderId: "188294923154"
+  };
+  firebase.initializeApp(config);
+</script>
+  <script defer src="index.js"></script>
+  <!-- Change out the following API_KEY for your Maps API Key -->
+<script defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDlCS8Yr2D48uj9SMqrw5WbCMhZey2C7zw&callback=initMap"></script>
+</body>
+</html>

@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "project_number": "188294923154",
+    "firebase_url": "https://alertapp-9682a.firebaseio.com",
+    "project_id": "alertapp-9682a",
+    "storage_bucket": "alertapp-9682a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188294923154:android:f2dfe02db814bbfe",
+        "android_client_info": {
+          "package_name": "com.example.dhruv.accidentalertapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188294923154-35sj33qnenfi0gimtde9pko4pgl338hd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dhruv.accidentalertapp",
+            "certificate_hash": "c081b6ba2cc8154f3b03adc811cda476f38784c7"
+          }
+        },
+        {
+          "client_id": "188294923154-on50mmv3u8d87c98ctjllc8jt310goll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ1iRbxANMKrbo_vq7Vr8rRsWxBK4NzGI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188294923154-on50mmv3u8d87c98ctjllc8jt310goll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188294923154:android:cf0a39627559c8ef",
+        "android_client_info": {
+          "package_name": "com.example.dhruv.alertapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188294923154-gskc9jn8l9rs0ivqepflhp6gfbugius0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dhruv.alertapp",
+            "certificate_hash": "c081b6ba2cc8154f3b03adc811cda476f38784c7"
+          }
+        },
+        {
+          "client_id": "188294923154-on50mmv3u8d87c98ctjllc8jt310goll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ1iRbxANMKrbo_vq7Vr8rRsWxBK4NzGI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188294923154-on50mmv3u8d87c98ctjllc8jt310goll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188294923154:android:c11442505e4b5cf7",
+        "android_client_info": {
+          "package_name": "com.example.dhruv.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188294923154-noginqmg9vksnknlbve0o0gr98o99hk3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dhruv.login",
+            "certificate_hash": "c081b6ba2cc8154f3b03adc811cda476f38784c7"
+          }
+        },
+        {
+          "client_id": "188294923154-on50mmv3u8d87c98ctjllc8jt310goll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ1iRbxANMKrbo_vq7Vr8rRsWxBK4NzGI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188294923154-on50mmv3u8d87c98ctjllc8jt310goll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188294923154:android:36bf1a6129632e09",
+        "android_client_info": {
+          "package_name": "com.example.dhruv.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188294923154-og1k77h9mm9v4t3ue6rqcqomuu3nu7o8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dhruv.myapplication",
+            "certificate_hash": "c081b6ba2cc8154f3b03adc811cda476f38784c7"
+          }
+        },
+        {
+          "client_id": "188294923154-on50mmv3u8d87c98ctjllc8jt310goll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ1iRbxANMKrbo_vq7Vr8rRsWxBK4NzGI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188294923154-on50mmv3u8d87c98ctjllc8jt310goll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
